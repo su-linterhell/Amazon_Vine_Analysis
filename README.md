@@ -37,6 +37,10 @@ When considering the costs to have your company join the Amazon Vine Program, it
 #### All Star Reviews for Unpaid Reviewers 
 ![rating_unpaid](amazon_review_screenshots/rating_unpaid.png)
 
+Although, the 5 star ratings for both paid and unpaid reviewers have a similar percentage of the overall reviews, the other star ratings differ a bit more. If we consider 4 & 5 star reviews to be positive reviews, positive reviews for paid reviewers account for 82.23% of reviews. However, for unpaid reviewers, it only accounts for 71.21% of reviews. 
+
+Let's consider negative reviews to be 1 & 2 star reviews. Negative reviews account for 2.16% of reviews for paid reviewers, while accounting for 19.4% of unpaid reviewers. Looking at the difference between positive and negative reivews, I would say there is a higher chance for a negative review to come from an unpaid reviewer vs. a paid one. With the difference in overall positive reviews being higher for paid reviewers, and negative reviews for unpaid reviewers to higher, there could be a positive bias with the reviewers in the Vine Program. However, this doesn't seem to be the case specifically for 5 star reviews. 
+
 
 
 
