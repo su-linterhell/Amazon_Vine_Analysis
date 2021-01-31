@@ -14,8 +14,17 @@ There were a total of 43574 reviews for outdoor products. Of those 21372 reviews
 #### Total Count of Unpaid Reviews
 ![total_unpaid_reviews](amazon_review_screenshots/total_unpaid_reviews.png)
 
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+When considering the costs to have your company join the Amazon Vine Program, its important to know your reviewers aren't being swayed by receiving perks/payment from performing reviews. If this was the case for Vine Reviewers, we would possibily see a difference in 5-star reviews between paid and unpaid reviewers. However, through further review of the outdoor products reviews, there was not huge different between the porportion of 5 star reviews. 
+
+#### Paid 5 Star Reviews
+![5_star_paid](amazon_review_screenshots/5_star_paid.png)
+
+#### Unpaid 5 Star Reviews 
+![5_star_unpaid](amazon_review_screenshots/5_star_unpaid.png)
+
 
 
 Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
