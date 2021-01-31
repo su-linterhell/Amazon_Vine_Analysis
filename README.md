@@ -29,14 +29,19 @@ When considering the costs to have your company join the Amazon Vine Program, it
 
 ### Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
-This dataset tracks helpful and total votes as separate fields. This means some reviews may have reviews that aren't considered helpful or useful based on the content and validity to the review. As a way to dive deeper to understand if there is a positivity bias among paid reviewers, I have found the proportion of helpful reviews, for each star rating for paid vs. unpaid reviewers. 
+5 Star reviews aren't the only useful metric to dive into. Other rated reviews can provide insight to whether or not there is a positivity bias among Vine Reviewers. 
 
-#### Helpful Votes for Paid Reviewers 
-![helpful_paid.](amazon_review_screenshots/helpful_paid.png)
+#### All Star Reviews for Paid Reviewers
+![rating_paid](amazon_review_screenshots/rating_paid.png)
+
+#### All Star Reviews for Unpaid Reviewers 
+![rating_unpaid](amazon_review_screenshots/rating_unpaid.png)
 
 
-#### Helpful Votes for Unpaid Reviewers 
-![helpful_unpaid](amazon_review_screenshots/helpful_unpaid.png)
+
+
+
+
 
 
 
